@@ -14,12 +14,9 @@ A modern React-based dashboard application built with Create React App, Tailwind
 
 ### Data Visualization
 - Comprehensive chart components for data analysis
-- Real-time data updates
 - Customizable chart headers and configurations
 
 ### User Experience
-- Real-time notifications system
-- Interactive chat functionality
 - User profile management
 - Shopping cart integration
 
