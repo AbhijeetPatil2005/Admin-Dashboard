@@ -1,5 +1,5 @@
 # Dashboard Application
-
+![Shoppy](https://i.ibb.co/W6g39w3/image.png)
 A modern React-based dashboard application built with Create React App, Tailwind CSS, and CRACO.
 
 ## Features
