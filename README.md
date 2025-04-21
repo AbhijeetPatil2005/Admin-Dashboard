@@ -3,12 +3,31 @@
 
 A modern React-based dashboard application built with Create React App, Tailwind CSS, and CRACO.
 
+
 ## Features
 
-- Modern React-based UI
-- Tailwind CSS for styling
-- CRACO for advanced configuration
-- Responsive design
+### User Interface
+- Responsive layout with sidebar navigation
+- Modern and clean design using Tailwind CSS
+- Customizable theme settings
+- Interactive navigation bar with user profile integration
+
+### Data Visualization
+- Comprehensive chart components for data analysis
+- Real-time data updates
+- Customizable chart headers and configurations
+
+### User Experience
+- Real-time notifications system
+- Interactive chat functionality
+- User profile management
+- Shopping cart integration
+
+### Technical Features
+- Context-based state management
+- Component-based architecture
+- Responsive design for all screen sizes
+- Optimized performance with production builds
 
 ## Prerequisites
 
